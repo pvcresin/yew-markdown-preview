@@ -1,5 +1,8 @@
 #![recursion_limit = "512"]
 
+extern crate pulldown_cmark;
+extern crate stdweb;
+
 mod app;
 mod utils;
 

@@ -1,4 +1,4 @@
-Markdown Preview App powerd by Rust / WebAssembly + Yew
+Markdown Preview App powered by Rust / WebAssembly + Yew
 
 ## Demo
 
